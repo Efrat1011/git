@@ -1,8 +1,10 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(249, 243, 249);
 }
-.Nassyrovy{
+p{
+    font-size: 35px;
     text-align: center;
-    color: blueviolet;
-    margin-top: 100px;
+    letter-spacing: 15px;
+    color: rgb(236, 4, 194);
+    margin-top: 80px;
 }
